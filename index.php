@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/de8de52639.js" crossorigin="anonymous"></script>
-    <title>CuyPerpus.com</title>
+    <title>Ayo_baca_bukuu.com</title>
     <link rel="icon" href="assets/logoUrl.png" type="image/png">
   </head>
   <body>
@@ -35,8 +35,8 @@
     <section id="homeSection" class="p-5">
       <div class="d-flex flex-wrap justify-content-center">
         <div class="col mt-5">
-         <h2 class="fw-bold text-success"><span class="text-primary">Cuy</span>Perpus</h2>
-          <p class="mb-4">"Temukan Dunia Pengetahuan di Ujung Jari Anda: <br> Perpustakaan Online <span class="fw-bold">CuyPerpus</span> Membawa Anda ke Dunia Buku Digital."</p>
+         <h2 class="fw-bold text-success"><span class="text-primary">Ayo</span>Baca Buku</h2>
+          <p class="mb-4">"Temukan Dunia Pengetahuan di Ujung Jari Anda: <br> Perpustakaan Online <span class="fw-bold">Ayo Baca Buku</span> Membawa Anda ke Dunia Buku Digital."</p>
           <a class="btn btn-primary" href="sign/link_login.html">Get started</a>
         </div>
         <div class="col mt-3">
