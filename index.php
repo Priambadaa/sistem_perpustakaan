@@ -12,7 +12,7 @@
     <!--Navbar-->
    <nav class="navbar fixed-top navbar-expand-lg bg-body-tertiary shadow-sm justify-space-between">
   <div class="container-fluid">
-    <img src="assets/logoNav.png" alt="logo" width="120px">
+    <img src="assets/1.png" alt="logo" width="120px">
     <a href="sign/link_login.html" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </a>
@@ -37,7 +37,7 @@
         <div class="col mt-5">
          <h2 class="fw-bold text-success"><span class="text-primary">Ayo</span>Baca Buku</h2>
           <p class="mb-4">"Temukan Dunia Pengetahuan di Ujung Jari Anda: <br> Perpustakaan Online <span class="fw-bold">Ayo Baca Buku</span> Membawa Anda ke Dunia Buku Digital."</p>
-          <a class="btn btn-primary" href="sign/link_login.html">Get started</a>
+          <a class="btn btn-primary" href="sign/link_login.html">Ayo Mulai</a>
         </div>
         <div class="col mt-3">
           <img src="assets/logoDashboard-transformed.jpeg" width="450px">
@@ -73,13 +73,13 @@
     <footer id="footer" class="p-3 bg-dark">
       <div class="row">
         <div class="col">
-          <img src="assets/logoFooter.png" width="200px">
+          <img src="assets/1.png" width="200px">
         </div>
       </div>
       <div class="row p-3">
         <div class="col mt-3">
           <h3 class="text-light fs-5">Alamat</h3>
-          <p class="text-secondary fs-6">JL Budi Utomo Pasar Baru jakarta pusat</p>
+          <p class="text-secondary fs-6">JL BUMIAYU</p>
         </div>
         <hr class="text-light mt-3">
         <div class="d-flex justify-content-center gap-4">
@@ -88,7 +88,7 @@
           <a href="" class="fs-3"><i class="fa-brands fa-instagram"></i></a>
         </div>
         <div class="d-flex justify-content-center align-items-center mt-3">
-          <p class="text-light">Made width ❤️ <a href="" class="text-decoration-none">Mangandaralam Sakti</a>  2023</p>
+          <p class="text-light">Made width ❤️ <a href="" class="text-decoration-none">PISANG DAN MOLEN</a>  2025</p>
         </div>
       </div>
     </footer>
